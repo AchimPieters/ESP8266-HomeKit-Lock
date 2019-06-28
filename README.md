@@ -3,4 +3,4 @@ ESP8266-HomeKit Door Lock
 
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Lock](https://raw.githubusercontent.com/AchimPieters/ESP8266-HomeKit-Lock/master/Default%20setup%20new.jpg)
