@@ -1,6 +1,11 @@
 # ESP8266-HomeKit-Door-Lock
 ESP8266-HomeKit Door Lock
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/achimpieters/ESP8266-HomeKit-Lock)
+![GitHub All Releases](https://img.shields.io/github/downloads/achimpieters/ESP8266-HomeKit-Lock/total)
+[![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/hyperion-project/hyperion.ng/master/LICENSE)
+[![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/AJFPieters)
+
 For More Information Visit http://www.studiopieters.nl/
 
 ![Lock](https://raw.githubusercontent.com/AchimPieters/ESP8266-HomeKit-Lock/master/Default%20setup%20new.jpg)
